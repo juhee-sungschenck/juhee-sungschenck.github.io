@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juhee Sung-Schenck on Home</title>
+    <link>https://juhee-sungschenck.github.io/</link>
+    <description>Recent content in Juhee Sung-Schenck on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://juhee-sungschenck.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NLP: Clustering - Disaster Mapping</title>
+      <link>https://juhee-sungschenck.github.io/post/project1/</link>
+      <pubDate>Fri, 18 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://juhee-sungschenck.github.io/post/project1/</guid>
+      <description>Web scraped tweets from various disasters including earthquakes, hurricanes, and wildfires Constructed several functions to engineer features and to produce geolocation within given radius Designed a supervised learning model that distinguishes whether the tweet is related to a disaster with 89% accuracy score, and an unsupervised learning model with 85% Designed an application with Flask to correctly pinpoint the area on the map with keywords provided by users    Link to this project&amp;rsquo;s GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Reddit Classification</title>
+      <link>https://juhee-sungschenck.github.io/post/project2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://juhee-sungschenck.github.io/post/project2/</guid>
+      <description>Generated an unstructured dataset by scraping 6,000 reddit posts in 2 subreddits Used natural language processing transformers to make the dataset mathematically analyzable and interpretable Identified most commonly used words in each subreddit using word vectorizers Built a multinomial Naive Bayes classification model with a precision score of 92%    Link to this project&amp;rsquo;s GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Diabetes Prediction</title>
+      <link>https://juhee-sungschenck.github.io/post/project3/</link>
+      <pubDate>Sun, 13 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://juhee-sungschenck.github.io/post/project3/</guid>
+      <description>Link to this project&amp;rsquo;s GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>World Happiness Data Visualization</title>
+      <link>https://juhee-sungschenck.github.io/post/project4/</link>
+      <pubDate>Sun, 30 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://juhee-sungschenck.github.io/post/project4/</guid>
+      <description>Link to this project&amp;rsquo;s GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://juhee-sungschenck.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juhee-sungschenck.github.io/contact/</guid>
+      <description>Reach me on these social media platforms.
+   Domain  URL     LinkedIn:  https://www.linkedin.com/in/juhee-sungschenck/   Medium:  https://www.medium.com/@juhee.sungschenck   GitHub:  https://github.com/juhee-sungschenck    </description>
+    </item>
+    
+  </channel>
+</rss>
