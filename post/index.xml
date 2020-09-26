@@ -11,37 +11,60 @@
       <title>NLP: Clustering - Disaster Mapping</title>
       <link>https://juhee-sungschenck.github.io/post/project1/</link>
       <pubDate>Fri, 18 Sep 2020 10:58:08 -0400</pubDate>
-      
+
       <guid>https://juhee-sungschenck.github.io/post/project1/</guid>
-      <description>Web scraped tweets from various disasters including earthquakes, hurricanes, and wildfires Constructed several functions to engineer features and to produce geolocation within given radius Designed a supervised learning model that distinguishes whether the tweet is related to a disaster with 89% accuracy score, and an unsupervised learning model with 85% Designed an application with Flask to correctly pinpoint the area on the map with keywords provided by users    Link to this project&amp;rsquo;s GitHub repository</description>
+      <description>
+        <li>Web scraped tweets from various disasters including earthquakes, hurricanes, and wildfires</li>
+        <li>Constructed several functions to engineer features and to produce geolocation within given radius</li>
+        <li>Designed a supervised learning model that distinguishes whether the tweet is related to a disaster with 89% accuracy score, and an unsupervised learning model with 85%</li>
+       <li>Designed an application with Flask to correctly pinpoint the area on the map with keywords provided by users</li>
+       Link to this project&amp;rsquo;s GitHub repository</description>
     </item>
-    
+
     <item>
       <title>Reddit Classification</title>
       <link>https://juhee-sungschenck.github.io/post/project2/</link>
       <pubDate>Tue, 15 Sep 2020 11:00:59 -0400</pubDate>
-      
+
       <guid>https://juhee-sungschenck.github.io/post/project2/</guid>
-      <description>Generated an unstructured dataset by scraping 6,000 reddit posts in 2 subreddits Used natural language processing transformers to make the dataset mathematically analyzable and interpretable Identified most commonly used words in each subreddit using word vectorizers Built a multinomial Naive Bayes classification model with a precision score of 92%    Link to this project&amp;rsquo;s GitHub repository</description>
+      <description>
+        <li>Generated an unstructured dataset by scraping 6,000 reddit posts in 2 subreddits</li>
+        <li>Used natural language processing transformers to make the dataset mathematically analyzable and interpretable</li>
+        <li>Identified most commonly used words in each subreddit using word vectorizers</li>
+        <li>Built a multinomial Naive Bayes classification model with a precision score of 92%</li>
+        Link to this project&amp;rsquo;s GitHub repository</description>
     </item>
-    
+
     <item>
       <title>Diabetes Prediction</title>
       <link>https://juhee-sungschenck.github.io/post/project3/</link>
       <pubDate>Sun, 13 Sep 2020 11:00:59 -0400</pubDate>
-      
+
       <guid>https://juhee-sungschenck.github.io/post/project3/</guid>
       <description>Link to this project&amp;rsquo;s GitHub repository</description>
     </item>
-    
+
     <item>
       <title>World Happiness Data Visualization</title>
       <link>https://juhee-sungschenck.github.io/post/project4/</link>
       <pubDate>Sun, 30 Aug 2020 11:00:59 -0400</pubDate>
-      
+
       <guid>https://juhee-sungschenck.github.io/post/project4/</guid>
       <description>Link to this project&amp;rsquo;s GitHub repository</description>
     </item>
-    
+
+    <item>
+      <title>House Sale Price Prediction</title>
+      <link>https://juhee-sungschenck.github.io/post/project5/</link>
+      <pubDate>Fri, 14 Aug 2020 11:00:59 -0400</pubDate>
+
+      <guid>https://juhee-sungschenck.github.io/post/project5/</guid>
+      <description>
+        <li>Created intuitive data visualizations to explore the relationships between property features and sale price</li>
+        <li>Applied feature engineering techniques to manipulate the data</li>
+        <li>Assessed several linear regression models measuring its predictive power</li>
+        <li>Developed a model that was able to forecast the sale price with 92% accuracy</li>
+        Link to this project&amp;rsquo;s GitHub repository</description>
+    </item>
   </channel>
 </rss>
