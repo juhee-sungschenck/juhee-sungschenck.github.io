@@ -7,6 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://juhee-sungschenck.github.io/index.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Suicide Prediction</title>
+      <link>https://juhee-sungschenck.github.io/post/project6/</link>
+      <pubDate>Sat, 10 Oct 2020 10:58:08 -0400</pubDate>
+
+      <guid>https://juhee-sungschenck.github.io/post/project6/</guid>
+      <description>
+        <ul>
+          <li>Created intuitive data visualizations to inspect the relationship between COVID  and mental health</li>
+          <li>Studied different word embeddings and vectorizers for model to be perceptive to weights of specific words</li>
+          <li>Explored unsupervised learning such as t-SNE, KMeans, and Agglomerative Clustering, and semi-supervised learning methods for classification to create a target label</li>
+          <li>Trained a deep learning model with Long Short Term Memory (LSTM) to predict suicidality with 83% accuracy score</li>
+</ul>
+      </description>
+    </item>
+
     <item>
       <title>NLP: Clustering - Disaster Mapping</title>
       <link>https://juhee-sungschenck.github.io/post/project1/</link>
